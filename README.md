@@ -12,3 +12,6 @@ This assignment is about functions.
 
 # Assignment 5
 This Assignment is about file and exception handling
+
+# Assignment 6
+This Assignment is about OOPs
